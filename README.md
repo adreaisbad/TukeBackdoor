@@ -1,2 +1,3 @@
 # TukeBackdoor
-The most reliable way, to backdoor and destroy Minecraft Server.
+
+https://github.com/adreaisbad/TukeBackdoor/wiki
